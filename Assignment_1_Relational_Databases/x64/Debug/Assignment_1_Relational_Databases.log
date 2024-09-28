@@ -1,0 +1,5 @@
+﻿  DelimitedFiles(CSV).cpp
+C:\GitHub\SecondYear\Fall 2024\Relational Databases\A1_Relational_Databases\Assignment_1_Relational_Databases\DelimitedFiles(CSV).cpp(31,9): warning C4101: 'count': unreferenced local variable
+C:\GitHub\SecondYear\Fall 2024\Relational Databases\A1_Relational_Databases\Assignment_1_Relational_Databases\DelimitedFiles(CSV).cpp(30,13): warning C4101: 'products': unreferenced local variable
+C:\GitHub\SecondYear\Fall 2024\Relational Databases\A1_Relational_Databases\Assignment_1_Relational_Databases\DelimitedFiles(CSV).cpp(152,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment_1_Relational_Databases.vcxproj -> C:\GitHub\SecondYear\Fall 2024\Relational Databases\A1_Relational_Databases\x64\Debug\Assignment_1_Relational_Databases.exe

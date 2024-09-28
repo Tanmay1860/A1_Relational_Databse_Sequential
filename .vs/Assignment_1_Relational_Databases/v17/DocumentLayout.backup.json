@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\SecondYear\\Fall 2024\\Relational Databases\\A1_Relational_Databases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35BC8A6F-46F0-433E-B03F-FF3C0BF8718D}|Assignment_1_Relational_Databases\\Assignment_1_Relational_Databases.vcxproj|C:\\GitHub\\SecondYear\\Fall 2024\\Relational Databases\\A1_Relational_Databases\\Assignment_1_Relational_Databases\\DelimitedFiles(CSV).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35BC8A6F-46F0-433E-B03F-FF3C0BF8718D}|Assignment_1_Relational_Databases\\Assignment_1_Relational_Databases.vcxproj|solutionrelative:Assignment_1_Relational_Databases\\DelimitedFiles(CSV).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelimitedFiles(CSV).cpp",
+              "DocumentMoniker": "C:\\GitHub\\SecondYear\\Fall 2024\\Relational Databases\\A1_Relational_Databases\\Assignment_1_Relational_Databases\\DelimitedFiles(CSV).cpp",
+              "RelativeDocumentMoniker": "Assignment_1_Relational_Databases\\DelimitedFiles(CSV).cpp",
+              "ToolTip": "C:\\GitHub\\SecondYear\\Fall 2024\\Relational Databases\\A1_Relational_Databases\\Assignment_1_Relational_Databases\\DelimitedFiles(CSV).cpp",
+              "RelativeToolTip": "Assignment_1_Relational_Databases\\DelimitedFiles(CSV).cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T03:29:35.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
